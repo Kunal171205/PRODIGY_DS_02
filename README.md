@@ -13,7 +13,7 @@ Analyze the Titanic dataset using EDA techniques, clean the data, handle missing
 ## 📁 Files Included
 
 - `Prodigy_Infotech_Task_2.ipynb` – Jupyter notebook with full data analysis, preprocessing steps, and visualizations  
-- `train.csv` – Titanic dataset used for analysis
+- `Titanic_train.csv` – Titanic dataset used for analysis
 
 ## 📊 Visualizations & Analysis Performed
 
